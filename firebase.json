@@ -1,0 +1,9 @@
+{
+  "firebase": "chat-omaar",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
